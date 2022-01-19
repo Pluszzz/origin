@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "args": [],
+            //"console": "externalTerminal", //没有这句话，vscode配置之后 console不能输入
+            "mainClass": "${file}",
+            "program": "${file}", //这个配置成你要调试的文件、${file}当前打开的文件
+            "cwd": "${workspaceRoot}",
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "terminal.integrated.shell.windows": "C:\\\\Windows\\\\System32\\\\cmd.exe",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "window.menuBarVisibility": "default",
+    "workbench.sideBar.location": "left",
+    "cmake.configureOnOpen": true,
+    "explorer.confirmDragAndDrop": false,
+    "JAVA_HOME": "D:/javaDownload/jdk-13", //修改成自己的路径
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "D:/javaDownload/jdk-13" //同上
+        }
+    ],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
