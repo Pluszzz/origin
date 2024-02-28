@@ -2,19 +2,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch HelloWorld",
+            "name": "Launch 1",
             "request": "launch",
-            "mainClass": "HelloWorld",
+            "mainClass": "${file}",
             "projectName": "Work_java_58e9b017"
         },
         {
             "type": "java",
-            "name": "first",
+            "name": "java",
             "request": "launch",
-            "args": [],
-            "mainClass": "${file}",
-            "program": "${file}",
-            "cwd": "${workspaceRoot}"
+            "mainClass": "${file}"
         }
     ]
 }

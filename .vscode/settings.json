@@ -1,5 +1,5 @@
 {
-    "terminal.integrated.shell.windows": "C:\\\\Windows\\\\System32\\\\cmd.exe",
+    // "terminal.integrated.shell.windows": "C:\\\\Windows\\\\System32\\\\cmd.exe",
     "files.autoSave": "afterDelay",
     "editor.fontSize": 16,
     "explorer.confirmDelete": false,
@@ -7,7 +7,6 @@
     "editor.formatOnSave": true,
     "vetur.format.defaultFormatter.html": "js-beautify-html",
     "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": true,
     "window.menuBarVisibility": "default",
     "workbench.sideBar.location": "left",
     "cmake.configureOnOpen": true,
